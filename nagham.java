@@ -1,6 +1,6 @@
 public class PrintInfo {
     public static void main(String[] args) {
-        System.out.println("Nagham");
+        System.out.println("Nm");
         
     }
 }
